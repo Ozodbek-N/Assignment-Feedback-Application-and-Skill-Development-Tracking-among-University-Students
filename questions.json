@@ -1,0 +1,235 @@
+{
+  "survey_title": "Assignment Feedback Application and Skill Development Tracking Survey",
+  "survey_description": "This survey assesses how effectively you apply assignment feedback and track your own skill development. Answer all 20 questions honestly. Lower scores indicate stronger feedback engagement; higher scores indicate avoidance or disengagement.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When you receive written feedback on an assignment, how thoroughly do you read through all the comments?",
+      "options": [
+        {"label": "Always — I read every comment carefully", "score": 0},
+        {"label": "Usually — I read most comments", "score": 1},
+        {"label": "Sometimes — I skim through them", "score": 2},
+        {"label": "Rarely — I check the grade and move on", "score": 3},
+        {"label": "Never — I do not read feedback comments", "score": 4}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "How well do you understand the feedback comments you receive from instructors?",
+      "options": [
+        {"label": "Very well — I always understand what is meant", "score": 0},
+        {"label": "Mostly well", "score": 1},
+        {"label": "Partially — some comments are unclear", "score": 2},
+        {"label": "Poorly — I often find comments confusing", "score": 3},
+        {"label": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "How often do you apply specific feedback points when working on your next assignment?",
+      "options": [
+        {"label": "Always — I address every point raised", "score": 0},
+        {"label": "Often — I address most points", "score": 1},
+        {"label": "Sometimes — I apply feedback occasionally", "score": 2},
+        {"label": "Rarely — I seldom change my approach", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "How often do you make a written note of feedback points to refer back to later?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "After receiving feedback, how often do you reflect on why you made the errors identified?",
+      "options": [
+        {"label": "Always — I analyse each mistake carefully", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never — I do not reflect on my errors", "score": 4}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How confident are you that you can identify the specific areas of your work that need improvement?",
+      "options": [
+        {"label": "Very confident", "score": 0},
+        {"label": "Mostly confident", "score": 1},
+        {"label": "Somewhat confident", "score": 2},
+        {"label": "Not very confident", "score": 3},
+        {"label": "Not confident at all", "score": 4}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "How often do you compare feedback from different assignments to identify recurring weaknesses?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How often do you ask your instructor to clarify feedback comments you do not understand?",
+      "options": [
+        {"label": "Always — I seek clarification whenever needed", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely — I prefer not to ask", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How accurately can you assess the quality of your own work before receiving feedback?",
+      "options": [
+        {"label": "Very accurately — my self-assessment closely matches the grade", "score": 0},
+        {"label": "Fairly accurately", "score": 1},
+        {"label": "Moderately — I sometimes misjudge my work", "score": 2},
+        {"label": "Poorly — my self-assessment is often wrong", "score": 3},
+        {"label": "Very poorly", "score": 4}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How often do you use feedback to set specific improvement goals for your next piece of work?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 11,
+      "text": "How clearly do you track your skill improvement from one assignment to the next?",
+      "options": [
+        {"label": "Very clearly — I keep a log or record of progress", "score": 0},
+        {"label": "Fairly clearly", "score": 1},
+        {"label": "Somewhat — I notice improvement but do not track it", "score": 2},
+        {"label": "Not clearly — I rarely notice whether I am improving", "score": 3},
+        {"label": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "id": 12,
+      "text": "How often do you feel motivated to improve after reading your feedback?",
+      "options": [
+        {"label": "Always — feedback consistently motivates me", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely — feedback usually discourages me", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 13,
+      "text": "How often do you review your previous assignments alongside the feedback before starting a new one?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 14,
+      "text": "How effectively do you translate general feedback comments into specific actions?",
+      "options": [
+        {"label": "Very effectively — I always know what to do next", "score": 0},
+        {"label": "Fairly effectively", "score": 1},
+        {"label": "Moderately — I sometimes struggle to act on general comments", "score": 2},
+        {"label": "Poorly", "score": 3},
+        {"label": "Very poorly — general feedback means nothing to me", "score": 4}
+      ]
+    },
+    {
+      "id": 15,
+      "text": "How often do you discuss your feedback with a classmate or study peer?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 16,
+      "text": "How often do you feel frustrated or defensive when you receive critical feedback?",
+      "options": [
+        {"label": "Never — I always accept critical feedback calmly", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always — critical feedback always upsets me", "score": 4}
+      ]
+    },
+    {
+      "id": 17,
+      "text": "How often do you proactively ask for additional feedback beyond what is provided?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 18,
+      "text": "How well do you remember and apply feedback from assignments completed more than a month ago?",
+      "options": [
+        {"label": "Very well", "score": 0},
+        {"label": "Fairly well", "score": 1},
+        {"label": "Partially — I recall some but forget most", "score": 2},
+        {"label": "Poorly", "score": 3},
+        {"label": "Not at all", "score": 4}
+      ]
+    },
+    {
+      "id": 19,
+      "text": "How often do you feel the feedback you receive helps you understand what is expected at university level?",
+      "options": [
+        {"label": "Always", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 20,
+      "text": "How often do you notice a clear improvement in your grades as a result of applying feedback?",
+      "options": [
+        {"label": "Always — applying feedback consistently improves my results", "score": 0},
+        {"label": "Often", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    }
+  ],
+  "scoring": [
+    {"min": 0,  "max": 11, "label": "Highly Feedback-Literate",        "description": "Outstanding feedback engagement. You read, apply, and track all feedback consistently and proactively seek more. No intervention needed."},
+    {"min": 12, "max": 23, "label": "Strong Feedback Engagement",       "description": "You apply most feedback well and show good self-regulation. Minor gaps in tracking or reflection. Continue and expand current habits."},
+    {"min": 24, "max": 35, "label": "Developing Feedback Engagement",   "description": "You read feedback but apply it inconsistently. Consider keeping a feedback log and setting improvement goals after each assignment."},
+    {"min": 36, "max": 47, "label": "Passive Feedback Receiver",        "description": "You acknowledge feedback without acting on it deliberately. Seek clarification from instructors and discuss feedback with peers."},
+    {"min": 48, "max": 59, "label": "Feedback-Reluctant",               "description": "You rarely apply feedback and may find criticism discouraging. Attend feedback workshops and develop a structured review habit."},
+    {"min": 60, "max": 71, "label": "Significantly Feedback-Avoidant",  "description": "Feedback is largely ignored or causes strong negative reactions. Academic support or mentoring is strongly recommended."},
+    {"min": 72, "max": 80, "label": "Critical Feedback Disengagement",  "description": "Almost no feedback is read or applied. Immediate intervention needed. Please speak with your personal tutor urgently."}
+  ]
+}
